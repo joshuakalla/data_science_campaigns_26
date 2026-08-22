@@ -1,4 +1,4 @@
-# Evaluating Evidence in Political Campaigns
+# Data Science for Political Campaigns
 
 Student notebooks and data for the Yale course. Each week's folder holds the
 in-class live-coding notebook, the problem set, and that week's data.
